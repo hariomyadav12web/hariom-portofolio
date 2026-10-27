@@ -1,0 +1,14 @@
+Hariom Yadav
+Full Stack Developer
+Lucknow, India
+
+ABOUT
+Fresher MERN stack developer building clean, responsive web experiences with React, Node.js, Express.js, and MongoDB. Looking for an opportunity to learn, contribute, and grow with a great team.
+
+SKILLS
+React | JavaScript | HTML | CSS | Tailwind | Node.js | Express.js | MongoDB | Git | GitHub
+
+PROJECTS
+E-Commerce Platform — React, Node.js, MongoDB
+Task Management App — JavaScript, Express.js, Tailwind
+Portfolio Website — HTML, CSS, Tailwind, GitHub
